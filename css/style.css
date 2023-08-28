@@ -1,0 +1,19 @@
+.italic {
+    font-style: italic;
+}
+
+.gray {
+    color: gray;
+}
+.green{
+    color: green;
+}
+.pink {
+    color: pink;
+}
+.red{
+    color: red;
+}
+.bold{
+    font-weight: bold;
+}
